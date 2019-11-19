@@ -1,23 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="127dbbbd-175b-4f4b-8876-81fb3087cf1c" name="Default Changelist" comment="" />
+    <list default="true" id="127dbbbd-175b-4f4b-8876-81fb3087cf1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/IOrkDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/OrkDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/exceptions/OrkAlreadyAdded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/Ork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidAttackPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidDefense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidHealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beadando/dao/OrkDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beadando/model/OrkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Programozási Környezetek" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TqMcT2AojUV6KMppI44FkrGNcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/beadando" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="beadando.dao" />
+      <recent name="beadando.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="beadando.model.exceptions" />
+      <recent name="beadando.modell.exceptions" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java\beadando" />
+      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,6 +97,97 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.OrkDAOTest.testOrkAlreadyAdded">
+    <configuration name="OrkDAOTest.testAddOrk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.dao" />
+      <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
+      <option name="METHOD_NAME" value="testAddOrk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkDAOTest.testOrkAlreadyAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.dao" />
+      <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
+      <option name="METHOD_NAME" value="testOrkAlreadyAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkTest.testAddOrk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.model" />
+      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
+      <option name="METHOD_NAME" value="testAddOrk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkTest.testConstructorWithInvalidHealthException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.model" />
+      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
+      <option name="METHOD_NAME" value="testConstructorWithInvalidHealthException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkTest.testSetHealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.model" />
+      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
+      <option name="METHOD_NAME" value="testSetHealth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrkDAOTest.testOrkAlreadyAdded" />
+        <item itemvalue="JUnit.OrkDAOTest.testAddOrk" />
+        <item itemvalue="JUnit.OrkTest.testAddOrk" />
+        <item itemvalue="JUnit.OrkTest.testSetHealth" />
+        <item itemvalue="JUnit.OrkTest.testConstructorWithInvalidHealthException" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -42,10 +199,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574183251162</updated>
       <workItem from="1574183256237" duration="607000" />
+      <workItem from="1574187156121" duration="8736000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
