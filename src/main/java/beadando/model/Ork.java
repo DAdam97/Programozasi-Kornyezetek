@@ -22,6 +22,8 @@ public class Ork {
 
 
     //region Constructors
+    public Ork() {
+    }
 
     public Ork(String name, Weapon weapon, int health, double range,
                int attackPower, int defense, LocalDate bornt) {
@@ -127,6 +129,7 @@ public class Ork {
                 "range='" + range + '\''+
                 "attackPower='" + attackPower + '\''+
                 "defense='" + defense + '\''+
+                "bornt='" + bornt + '\''+
                 "}";
     }
 
