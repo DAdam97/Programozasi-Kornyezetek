@@ -9,9 +9,8 @@ import java.util.Collection;
 
 public interface IOrkDAO {
 
-    Collection<Ork> getAllOrk();
+    Collection<Ork> getAllOrk() throws IOException;
     Ork getOrkByName(String name) throws OrkNotFound;
     void addOrk(Ork ork) throws OrkAlreadyAdded, IOException;
-    boolean killOrk(Ork killedOrk);
-
+    boolean killOrk(String killedOrk) throws IOException;
 }

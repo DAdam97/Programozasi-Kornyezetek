@@ -96,7 +96,7 @@ public class OrkDAOTest {
         dao.addOrk(Durotan);
 
         Ork Nerzhul = new Ork("Ner'zhul", Weapon.FIST, 2,
-                15,19, 10, LocalDate.now());
+                15,9, 10, LocalDate.now());
 
         dao.addOrk(Nerzhul);
 
@@ -106,7 +106,7 @@ public class OrkDAOTest {
             System.out.println(ork);
         }
 
-        boolean orkKilled = dao.killOrk(Nerzhul);
+        boolean orkKilled = dao.killOrk("Ner'zhul");
         Assert.assertTrue(orkKilled);
 
         System.out.println("====================");
@@ -126,7 +126,7 @@ public class OrkDAOTest {
         dao.addOrk(Durotan);
 
         Ork Nerzhul = new Ork("Ner'zhul", Weapon.FIST, 2,
-                15,19, 10, LocalDate.now());
+                15,9, 10, LocalDate.now());
 
         dao.addOrk(Nerzhul);
 
@@ -136,8 +136,7 @@ public class OrkDAOTest {
             System.out.println(ork);
         }
 
-        boolean orkKilled = dao.killOrk(new Ork("dummy", Weapon.SWORD, 1,
-                    1.5,1, 1, LocalDate.now()));
+        boolean orkKilled = dao.killOrk("Malkorok");
 
         Assert.assertFalse(orkKilled);
 
@@ -148,7 +147,24 @@ public class OrkDAOTest {
         for (Ork ork:orks) {
             System.out.println(ork);
         }
+    }
 
+
+    @Test
+    public void testOrkListSizeAfterKill() throws IOException {
+        Collection<Ork> orks = dao.getAllOrk();
+
+        int orksSize = orks.size();
+
+        for (Ork ork:orks) {
+            System.out.println(ork.getName());
+        }
+
+        System.out.println(dao.killOrk("micsu"));
+
+        orks = dao.getAllOrk();
+
+        Assert.assertEquals(orks.size(), orksSize - 1);
     }
 }
 

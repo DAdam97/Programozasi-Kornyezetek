@@ -1,0 +1,123 @@
+[INFO ] 2019-11-330 19:11:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:12:05 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:14:54 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:14:54 Ork - invalidHealth: Ork1
+[INFO ] 2019-11-330 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:17:27 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:19:57 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:20:53 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:21:05 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:21:23 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[ERROR] 2019-11-330 19:21:23 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:21:23 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:22:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:22:29 Ork - invalidHealth: Ork1
+[INFO ] 2019-11-330 19:22:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:38 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:22:39 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[ERROR] 2019-11-330 19:22:39 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:22:39 Ork - invalidDefense: micsu
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:25:29 Ork - invalidAP: Ner'zhul
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:25:29 Ork - invalidAP: Ner'zhul
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-330 19:26:55 Ork - invalidAP: Ner'zhul
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='dummy'fegyver='SWORD'health='1'range='1.5'attackPower='1'defense='1'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-330 19:49:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:51:08 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:51:40 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:52:49 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:53:19 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:55:31 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:55:54 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:58:04 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-330 19:58:52 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}

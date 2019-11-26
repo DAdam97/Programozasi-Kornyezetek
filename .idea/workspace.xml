@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="127dbbbd-175b-4f4b-8876-81fb3087cf1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Orktest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/exceptions/OrkNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logFiles/daolog.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logFiles/mainlog.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logFiles/modellog.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orktest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Orktest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/beadando/dao/IOrkDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/IOrkDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/beadando/dao/OrkDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/dao/OrkDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/Ork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/Ork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/beadando/dao/OrkDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/beadando/dao/OrkDAOTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/beadando/dao/IOrkDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beadando/dao/IOrkDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/beadando/dao/OrkDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beadando/dao/OrkDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/beadando/model/Ork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beadando/model/Ork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/beadando/dao/OrkDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/beadando/dao/OrkDAOTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,6 +51,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1TqMcT2AojUV6KMppI44FkrGNcc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,11 +68,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../progkorny2/elso" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -95,24 +104,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OrkDAOTest.testKillOrkTrue">
-    <configuration name="OrkDAOTest.testGetOrkByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beadando.dao.OrkDAOTest" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="beadando.dao" />
-      <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
-      <option name="METHOD_NAME" value="testGetOrkByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrkDAOTest.testKillOrkFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OrkDAOTest.testOrkListSizeAfterKill">
+    <configuration name="OrkDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1.0" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +115,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="beadando.dao" />
       <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
-      <option name="METHOD_NAME" value="testKillOrkFalse" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,17 +136,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrkDAOTest.testOrkAlreadyAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrkDAOTest.testOrkListSizeAfterKill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beadando.dao.OrkDAOTest" />
+          <option name="PATTERN" value="beadando.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="beadando.dao" />
       <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
-      <option name="METHOD_NAME" value="testOrkAlreadyAdded" />
+      <option name="METHOD_NAME" value="testOrkListSizeAfterKill" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,7 +156,7 @@
       <module name="1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beadando.dao.OrkDAOTest" />
+          <option name="PATTERN" value="beadando.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,13 +168,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.model" />
+      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OrkDAOTest.testKillOrkTrue" />
-        <item itemvalue="JUnit.OrkDAOTest.testKillOrkFalse" />
+        <item itemvalue="JUnit.OrkDAOTest.testOrkListSizeAfterKill" />
+        <item itemvalue="JUnit.OrkDAOTest" />
+        <item itemvalue="JUnit.OrkTest" />
         <item itemvalue="JUnit.OrkDAOTest.testOrkNotFound" />
-        <item itemvalue="JUnit.OrkDAOTest.testGetOrkByName" />
-        <item itemvalue="JUnit.OrkDAOTest.testOrkAlreadyAdded" />
+        <item itemvalue="JUnit.OrkDAOTest.testKillOrkTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +206,7 @@
       <workItem from="1574183256237" duration="607000" />
       <workItem from="1574187156121" duration="8736000" />
       <workItem from="1574276270167" duration="7360000" />
+      <workItem from="1574789220124" duration="5645000" />
     </task>
     <servers />
   </component>

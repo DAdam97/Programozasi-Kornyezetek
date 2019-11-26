@@ -34,7 +34,7 @@ public class Ork {
         this.attackPower = attackPower;
         this.defense = defense;
         this.bornt = bornt;
-       // logger.info("Uj Ork szuletett: " + this);
+        logger.info("Uj Ork szuletett: " + this);
     }
 
     //endregion
@@ -74,6 +74,7 @@ public class Ork {
             this.health = health;
         }
         else {
+            logger.error("invalidHealth: " + this.name);
             throw new invalidHealth();
         }
     }
@@ -87,6 +88,7 @@ public class Ork {
             this.range = range;
         }
         else{
+            logger.error("invalidRange: " + this.name);
             throw  new invalidRange();
         }
     }
@@ -100,6 +102,7 @@ public class Ork {
             this.attackPower = attackPower;
         }
         else {
+            logger.error("invalidAP: "+ this.name);
             throw new invalidAttackPower();
         }
     }
@@ -109,10 +112,11 @@ public class Ork {
     }
 
     public void setDefense(int defense) throws invalidDefense {
-        if (0 >= defense && 20 >= defense) {
+        if (defense >= 0 && 20 >= defense) {
             this.defense = defense;
         }
         else {
+            logger.error("invalidDefense: " + this.name);
             throw new invalidDefense();
         }
     }
@@ -143,12 +147,14 @@ public class Ork {
                 attackPower == ork.attackPower &&
                 defense == ork.defense &&
                 Objects.equals(name, ork.name) &&
-                weapon == ork.weapon;
+                weapon == ork.weapon &&
+                Objects.equals(bornt, ork.bornt) &&
+                Objects.equals(logger, ork.logger);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, weapon, health, range, attackPower, defense);
+        return Objects.hash(name, weapon, health, range, attackPower, defense, bornt, logger);
     }
     //endregion
 

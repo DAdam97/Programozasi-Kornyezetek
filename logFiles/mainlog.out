@@ -1,0 +1,355 @@
+[DEBUG] 2019-11-26 19:07:41 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:07:41 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:07:41 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:07:41 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:07:41 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[DEBUG] 2019-11-26 19:08:27 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:08:27 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:08:27 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:08:27 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:08:27 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:08:27 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:08:27 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:08:27 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:08:51 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:08:51 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:08:51 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:08:51 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:08:51 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:08:51 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:11:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:11:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:11:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:11:33 OrkDAO - Gul'dan nevu ork nincs meg :(
+[INFO ] 2019-11-26 19:12:05 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:14:54 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:14:54 Ork - invalidHealth: Ork1
+[DEBUG] 2019-11-26 19:17:27 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:17:27 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:17:27 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:17:27 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:17:27 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:17:27 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:19:57 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:19:57 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:19:57 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:19:57 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:19:57 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:19:57 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:20:53 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:20:53 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:20:53 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:20:53 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:20:53 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:20:53 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:21:05 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:05 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:05 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:21:05 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:21:23 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:21:23 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:21:23 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[ERROR] 2019-11-26 19:21:23 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:21:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:21:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:21:23 Ork - invalidDefense: micsu
+[INFO ] 2019-11-26 19:22:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:22:29 Ork - invalidHealth: Ork1
+[INFO ] 2019-11-26 19:22:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:22:38 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:38 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:38 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:22:39 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:22:39 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:22:39 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:22:39 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:22:39 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:22:39 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[ERROR] 2019-11-26 19:22:39 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:22:39 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:22:39 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:22:39 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:22:39 Ork - invalidDefense: micsu
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:25:29 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:25:29 Ork - invalidAP: Ner'zhul
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:25:29 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:25:29 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:25:29 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:25:29 Ork - invalidAP: Ner'zhul
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:26:55 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork sikeresen megölve
+[INFO ] 2019-11-26 19:26:55 OrkDAO - json fileban levo orkok: 3
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:26:55 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:26:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:26:55 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:26:55 Ork - invalidAP: Ner'zhul
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:27:33 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork sikeresen megölve
+[INFO ] 2019-11-26 19:27:33 OrkDAO - json fileban levo orkok: 3
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:27:33 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:27:33 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-26 19:27:33 Ork - Uj Ork szuletett: main.model.Ork{name='dummy'fegyver='SWORD'health='1'range='1.5'attackPower='1'defense='1'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:27:33 OrkDAO - az ork tulelte
+[INFO ] 2019-11-26 19:27:33 OrkDAO - json fileban levo orkok: 3
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-26 19:46:23 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork sikeresen megölve
+[INFO ] 2019-11-26 19:46:23 OrkDAO - json fileban levo orkok: 3
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-26'}
+[ERROR] 2019-11-26 19:46:23 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[DEBUG] 2019-11-26 19:46:23 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-26'}
+[INFO ] 2019-11-26 19:46:23 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-26 19:46:23 OrkDAO - az ork tulelte
+[INFO ] 2019-11-26 19:46:23 OrkDAO - json fileban levo orkok: 3
+[DEBUG] 2019-11-26 19:49:55 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:49:55 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:49:55 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:49:55 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:49:55 OrkDAO - az ork tulelte
+[DEBUG] 2019-11-26 19:51:08 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:51:08 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:51:08 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:51:08 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:51:08 OrkDAO - az ork tulelte
+[DEBUG] 2019-11-26 19:51:40 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:51:40 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:51:40 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:51:40 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:51:40 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:52:49 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:52:49 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:52:49 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:52:49 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:52:49 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:53:19 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:53:19 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:53:19 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:53:19 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:53:19 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:55:31 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:55:31 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:55:31 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:55:31 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:55:31 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:55:54 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:55:54 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:55:54 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:55:54 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:55:54 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:58:04 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:58:04 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:58:04 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:58:04 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:58:04 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:58:04 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-26 19:58:52 OrkDAO - DAO init
+[INFO ] 2019-11-26 19:58:52 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:58:52 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-26 19:58:52 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-26 19:58:52 OrkDAO - ork sikeresen megölve
+[INFO ] 2019-11-26 19:58:52 OrkDAO - json fileban levo orkok: 0
