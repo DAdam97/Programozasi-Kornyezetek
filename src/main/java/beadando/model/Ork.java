@@ -6,10 +6,13 @@ import beadando.model.exceptions.invalidHealth;
 import beadando.model.exceptions.invalidRange;
 import org.apache.log4j.Logger;
 
+import javax.naming.Name;
 import java.time.LocalDate;
 import java.util.Objects;
 
 public class Ork {
+
+    //region Fields
     private String name;
     private Weapon weapon;
     private int health;
@@ -19,7 +22,7 @@ public class Ork {
     private LocalDate bornt;
 
     private Logger logger = Logger.getLogger(Ork.class);
-
+    //endregion
 
     //region Constructors
     public Ork() {
@@ -39,13 +42,14 @@ public class Ork {
 
     //endregion
 
- //region Properties
+    //region Properties
 
  public LocalDate getBornt() {
      return bornt;
  }
 
     public void setBornt(LocalDate bornt) {
+        logger.debug(name+ ": bornt successfully set from:" + this.bornt+ "  to: " + bornt);
         this.bornt = bornt;
     }
 
@@ -54,6 +58,7 @@ public class Ork {
     }
 
     public void setName(String name) {
+        logger.debug("name successfully set from:" + this.name + "  to: " + name);
         this.name = name;
     }
 
@@ -62,6 +67,7 @@ public class Ork {
     }
 
     public void setWeapon(Weapon weapon) {
+        logger.debug(name+ ": weapon successfully set from:" + this.weapon + "  to: " + weapon);
         this.weapon = weapon;
     }
 
@@ -71,10 +77,11 @@ public class Ork {
 
     public void setHealth(int health) throws invalidHealth {
         if (health >= 1 && 50 >= health) {
+            logger.debug(name+ ": health successfully set from:" + this.health + "  to: " + health);
             this.health = health;
         }
         else {
-            logger.error("invalidHealth: " + this.name);
+            logger.error(name+ ": invalidHealth: " + health);
             throw new invalidHealth();
         }
     }
@@ -85,10 +92,11 @@ public class Ork {
 
     public void setRange(double range) throws invalidRange {
         if (range >= 0.5 && 100.0 >= range) {
+            logger.debug(name+ ": range successfully set from:" + this.range + "  to: " + range);
             this.range = range;
         }
         else{
-            logger.error("invalidRange: " + this.name);
+            logger.error(name+ ": invalidRange: " + range);
             throw  new invalidRange();
         }
     }
@@ -99,10 +107,11 @@ public class Ork {
 
     public void setAttackPower(int attackPower) throws invalidAttackPower {
         if (attackPower >= 1 && 15 >= attackPower) {
+            logger.debug(name+ ": attackPower successfully set from:" + this.attackPower + "  to: " + attackPower);
             this.attackPower = attackPower;
         }
         else {
-            logger.error("invalidAP: "+ this.name);
+            logger.error(name+ ": invalidAP: "+ attackPower);
             throw new invalidAttackPower();
         }
     }
@@ -113,10 +122,11 @@ public class Ork {
 
     public void setDefense(int defense) throws invalidDefense {
         if (defense >= 0 && 20 >= defense) {
+            logger.debug(name+ ": attackPower successfully set from:" + this.defense + "  to: " + defense);
             this.defense = defense;
         }
         else {
-            logger.error("invalidDefense: " + this.name);
+            logger.error(name+ ": invalidDefense: " + defense);
             throw new invalidDefense();
         }
     }

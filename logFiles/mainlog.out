@@ -353,3 +353,26 @@
 [INFO ] 2019-11-26 19:58:52 OrkDAO - json fileban levo orkok: 1
 [INFO ] 2019-11-26 19:58:52 OrkDAO - ork sikeresen megölve
 [INFO ] 2019-11-26 19:58:52 OrkDAO - json fileban levo orkok: 0
+[INFO ] 2019-11-27 19:33:29 Ork - Uj Ork szuletett: main.model.Ork{name='Ork1'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-27'}
+[INFO ] 2019-11-27 19:40:43 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-27'}
+[ERROR] 2019-11-27 19:40:43 Ork - invalidHealth: 54
+[INFO ] 2019-11-27 19:40:48 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-27'}
+[ERROR] 2019-11-27 19:40:48 Ork - invalidHealth: 54
+[INFO ] 2019-11-27 19:40:48 Ork - Uj Ork szuletett: main.model.Ork{name='DummyOrk'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-27'}
+[INFO ] 2019-11-27 19:40:48 Ork - Uj Ork szuletett: main.model.Ork{name='Garad'fegyver='SWORD'health='20'range='7.7'attackPower='5'defense='19'bornt='2005-09-20'}
+[INFO ] 2019-11-27 19:56:47 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'fegyver='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-27'}
+[DEBUG] 2019-11-27 19:56:47 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-27 19:56:47 Ork - weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-27 19:56:47 Ork - health successfully set from:1  to: 50
+[DEBUG] 2019-11-27 19:56:47 Ork - range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-27 19:56:47 Ork - attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-27 19:56:47 Ork - attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-27 19:56:47 Ork - bornt successfully set from:2019-11-27  to: 1998-05-20
+[INFO ] 2019-11-27 19:59:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'fegyver='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-27'}
+[DEBUG] 2019-11-27 19:59:33 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: health successfully set from:1  to: 50
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-27 19:59:33 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-27  to: 1998-05-20
