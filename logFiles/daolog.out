@@ -211,3 +211,38 @@
 [INFO ] 2019-11-330 19:58:52 OrkDAO - json fileban levo orkok: 1
 [INFO ] 2019-11-330 19:58:52 OrkDAO - ork sikeresen megölve
 [INFO ] 2019-11-330 19:58:52 OrkDAO - json fileban levo orkok: 0
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 1
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 0
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[ERROR] 2019-11-30 16:00:43 OrkDAO - Gul'dan nevu ork nincs meg :(
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork sikeresen megölve
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-30'}
+[ERROR] 2019-11-30 16:00:43 OrkDAO - ork hozzaadasa sikertelen: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 2
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork megtalalva: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - DAO init
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 OrkDAO - ork hozzaadva: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 3
+[INFO ] 2019-11-30 16:00:43 OrkDAO - az ork tulelte
+[DEBUG] 2019-11-30 16:00:43 OrkDAO - json fileban levo orkok: 3

@@ -144,3 +144,371 @@
 [DEBUG] 2019-11-331 19:59:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
 [DEBUG] 2019-11-331 19:59:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
 [DEBUG] 2019-11-331 19:59:33 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-27  to: 1998-05-20
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Durotan
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: bornt successfully set from:null  to: 2019-11-30
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Ner'zhul
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: health successfully set from:0  to: 2
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: range successfully set from:0.0  to: 15.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 9
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: bornt successfully set from:null  to: 2019-11-30
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Durotan
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='19'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Thrall'fegyver='MACE'health='45'range='25.0'attackPower='10'defense='10'bornt='1994-11-12'}
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Thrall
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Thrall: bornt successfully set from:null  to: 1994-11-12
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Orgrim'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='micsu'fegyver='MACE'health='40'range='20.0'attackPower='10'defense='5'bornt='1997-12-31'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Durotan'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:00:43 Ork - Uj Ork szuletett: main.model.Ork{name='Ner'zhul'fegyver='FIST'health='2'range='15.0'attackPower='9'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Durotan
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: bornt successfully set from:null  to: 2019-11-30
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Ner'zhul
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: health successfully set from:0  to: 2
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: range successfully set from:0.0  to: 15.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 9
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: bornt successfully set from:null  to: 2019-11-30
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: micsu
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: weapon successfully set from:null  to: MACE
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: health successfully set from:0  to: 40
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: range successfully set from:0.0  to: 20.0
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:00:43 Ork - micsu: bornt successfully set from:null  to: 1997-12-31
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Durotan
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Durotan: bornt successfully set from:null  to: 2019-11-30
+[DEBUG] 2019-11-30 16:00:43 Ork - name successfully set from:null  to: Ner'zhul
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: health successfully set from:0  to: 2
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: range successfully set from:0.0  to: 15.0
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 9
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:00:43 Ork - Ner'zhul: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:01:33 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'fegyver='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:01:33 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: health successfully set from:1  to: 50
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-30 16:01:33 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-30  to: 1998-05-20
+[INFO ] 2019-11-30 16:01:33 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[ERROR] 2019-11-30 16:01:33 Ork - Drak'thul: invalidHealth: 54
+[INFO ] 2019-11-30 16:01:33 Ork - Uj Ork szuletett: main.model.Ork{name='DummyOrk'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[INFO ] 2019-11-30 16:01:33 Ork - Uj Ork szuletett: main.model.Ork{name='Garad'fegyver='SWORD'health='20'range='7.7'attackPower='5'defense='19'bornt='2005-09-20'}
+[DEBUG] 2019-11-30 16:01:33 Ork - Garad: range successfully set from:7.7  to: 77.7
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:null  to: Ork
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: health successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: range successfully set from:0.0  to: 1.0
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:12:45 Ork - Ork: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:12:45 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'fegyver='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: health successfully set from:1  to: 50
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-30 16:12:45 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-30  to: 1998-05-20
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:null  to: Drak'thul
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:12:45 Ork - Drak'thul: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:12:45 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[ERROR] 2019-11-30 16:12:45 Ork - Drak'thul: invalidHealth: 54
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:null  to: Blackhand
+[DEBUG] 2019-11-30 16:12:45 Ork - Blackhand: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:12:45 Ork - Blackhand: health successfully set from:0  to: 20
+[ERROR] 2019-11-30 16:12:45 Ork - Blackhand: invalidRange: -5.2
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:null  to: DummyOrk
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:12:45 Ork - DummyOrk: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:12:45 Ork - Uj Ork szuletett: main.model.Ork{name='DummyOrk'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:12:45 Ork - name successfully set from:null  to: Garad
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: weapon successfully set from:null  to: SWORD
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: range successfully set from:0.0  to: 7.7
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: attackPower successfully set from:0  to: 19
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: bornt successfully set from:null  to: 2005-09-20
+[INFO ] 2019-11-30 16:12:45 Ork - Uj Ork szuletett: main.model.Ork{name='Garad'fegyver='SWORD'health='20'range='7.7'attackPower='5'defense='19'bornt='2005-09-20'}
+[DEBUG] 2019-11-30 16:12:45 Ork - Garad: range successfully set from:7.7  to: 77.7
+[DEBUG] 2019-11-30 16:13:16 Ork - name successfully set from:null  to: Blackhand
+[DEBUG] 2019-11-30 16:13:16 Ork - Blackhand: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:13:16 Ork - Blackhand: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:13:16 Ork - Blackhand: range successfully set from:0.0  to: 5.2
+[ERROR] 2019-11-30 16:13:16 Ork - Blackhand: invalidAP: 1000
+[DEBUG] 2019-11-30 16:16:14 Ork - name successfully set from:null  to: Nazgrim
+[DEBUG] 2019-11-30 16:16:14 Ork - Nazgrim: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:16:14 Ork - Nazgrim: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:16:14 Ork - Nazgrim: range successfully set from:0.0  to: 5.2
+[DEBUG] 2019-11-30 16:16:14 Ork - Nazgrim: attackPower successfully set from:0  to: 10
+[ERROR] 2019-11-30 16:16:14 Ork - Nazgrim: invalidDefense: 1000
+[DEBUG] 2019-11-30 16:16:42 Ork - name successfully set from:null  to: Nazgrim
+[DEBUG] 2019-11-30 16:16:42 Ork - Nazgrim: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:16:42 Ork - Nazgrim: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:16:42 Ork - Nazgrim: range successfully set from:0.0  to: 5.2
+[DEBUG] 2019-11-30 16:16:42 Ork - Nazgrim: attackPower successfully set from:0  to: 10
+[ERROR] 2019-11-30 16:16:42 Ork - Nazgrim: invalidDefense: 1000
+[DEBUG] 2019-11-30 16:17:30 Ork - name successfully set from:null  to: Dranosh Saurfang
+[DEBUG] 2019-11-30 16:17:30 Ork - Dranosh Saurfang: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:17:30 Ork - Dranosh Saurfang: health successfully set from:0  to: 20
+[ERROR] 2019-11-30 16:17:30 Ork - Dranosh Saurfang: invalidRange: -5.2
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Ork
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: health successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: range successfully set from:0.0  to: 1.0
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:17:38 Ork - Ork: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:17:38 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'fegyver='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: health successfully set from:1  to: 50
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-30 16:17:38 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-30  to: 1998-05-20
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Nazgrim
+[DEBUG] 2019-11-30 16:17:38 Ork - Nazgrim: weapon successfully set from:null  to: HATCHET
+[DEBUG] 2019-11-30 16:17:38 Ork - Nazgrim: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:17:38 Ork - Nazgrim: range successfully set from:0.0  to: 5.2
+[DEBUG] 2019-11-30 16:17:38 Ork - Nazgrim: attackPower successfully set from:0  to: 10
+[ERROR] 2019-11-30 16:17:38 Ork - Nazgrim: invalidDefense: 1000
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Drak'thul
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:17:38 Ork - Drak'thul: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:17:38 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[ERROR] 2019-11-30 16:17:38 Ork - Drak'thul: invalidHealth: 54
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Blackhand
+[DEBUG] 2019-11-30 16:17:38 Ork - Blackhand: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:17:38 Ork - Blackhand: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:17:38 Ork - Blackhand: range successfully set from:0.0  to: 5.2
+[ERROR] 2019-11-30 16:17:38 Ork - Blackhand: invalidAP: 9000
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Dranosh Saurfang
+[DEBUG] 2019-11-30 16:17:38 Ork - Dranosh Saurfang: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:17:38 Ork - Dranosh Saurfang: health successfully set from:0  to: 20
+[ERROR] 2019-11-30 16:17:38 Ork - Dranosh Saurfang: invalidRange: -5.2
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: DummyOrk
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:17:38 Ork - DummyOrk: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:17:38 Ork - Uj Ork szuletett: main.model.Ork{name='DummyOrk'fegyver='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:17:38 Ork - name successfully set from:null  to: Garad
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: weapon successfully set from:null  to: SWORD
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: range successfully set from:0.0  to: 7.7
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: attackPower successfully set from:0  to: 19
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: bornt successfully set from:null  to: 2005-09-20
+[INFO ] 2019-11-30 16:17:38 Ork - Uj Ork szuletett: main.model.Ork{name='Garad'fegyver='SWORD'health='20'range='7.7'attackPower='5'defense='19'bornt='2005-09-20'}
+[DEBUG] 2019-11-30 16:17:38 Ork - Garad: range successfully set from:7.7  to: 77.7
+[DEBUG] 2019-11-30 16:31:42 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:31:42 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:31:42 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'fegyver='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:36:31 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:36:31 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:36:31 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'fegyver='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:36:45 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:36:45 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:36:45 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'fegyver='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:37:19 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:37:19 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:37:19 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'weapon='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:37:34 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:37:34 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:37:34 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'weapon='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:38:49 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:38:49 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'weapon='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Ork
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: health successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: range successfully set from:0.0  to: 1.0
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: attackPower successfully set from:0  to: 1
+[DEBUG] 2019-11-30 16:38:49 Ork - Ork: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:38:49 Ork - Uj Ork szuletett: main.model.Ork{name='Ork'weapon='FIST'health='1'range='1.0'attackPower='1'defense='1'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:Ork  to: Orgrim Doomhammer
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: weapon successfully set from:FIST  to: MACE
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: health successfully set from:1  to: 50
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: range successfully set from:1.0  to: 90.5
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 14
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: attackPower successfully set from:1  to: 20
+[DEBUG] 2019-11-30 16:38:49 Ork - Orgrim Doomhammer: bornt successfully set from:2019-11-30  to: 1998-05-20
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Nazgrim
+[DEBUG] 2019-11-30 16:38:49 Ork - Nazgrim: weapon successfully set from:null  to: HATCHET
+[DEBUG] 2019-11-30 16:38:49 Ork - Nazgrim: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:38:49 Ork - Nazgrim: range successfully set from:0.0  to: 5.2
+[DEBUG] 2019-11-30 16:38:49 Ork - Nazgrim: attackPower successfully set from:0  to: 10
+[ERROR] 2019-11-30 16:38:49 Ork - Nazgrim: invalidDefense: 1000
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Drak'thul
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:38:49 Ork - Drak'thul: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:38:49 Ork - Uj Ork szuletett: main.model.Ork{name='Drak'thul'weapon='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[ERROR] 2019-11-30 16:38:49 Ork - Drak'thul: invalidHealth: 54
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Blackhand
+[DEBUG] 2019-11-30 16:38:49 Ork - Blackhand: weapon successfully set from:null  to: MALLET
+[DEBUG] 2019-11-30 16:38:49 Ork - Blackhand: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:38:49 Ork - Blackhand: range successfully set from:0.0  to: 5.2
+[ERROR] 2019-11-30 16:38:49 Ork - Blackhand: invalidAP: 9000
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Dranosh Saurfang
+[DEBUG] 2019-11-30 16:38:49 Ork - Dranosh Saurfang: weapon successfully set from:null  to: FIST
+[DEBUG] 2019-11-30 16:38:49 Ork - Dranosh Saurfang: health successfully set from:0  to: 20
+[ERROR] 2019-11-30 16:38:49 Ork - Dranosh Saurfang: invalidRange: -5.2
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: DummyOrk
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: health successfully set from:0  to: 45
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: range successfully set from:0.0  to: 25.0
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: attackPower successfully set from:0  to: 10
+[DEBUG] 2019-11-30 16:38:49 Ork - DummyOrk: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:38:49 Ork - Uj Ork szuletett: main.model.Ork{name='DummyOrk'weapon='INSECTREAPER'health='45'range='25.0'attackPower='10'defense='10'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:38:49 Ork - name successfully set from:null  to: Garad
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: weapon successfully set from:null  to: SWORD
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: health successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: range successfully set from:0.0  to: 7.7
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: attackPower successfully set from:0  to: 5
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: attackPower successfully set from:0  to: 19
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: bornt successfully set from:null  to: 2005-09-20
+[INFO ] 2019-11-30 16:38:49 Ork - Uj Ork szuletett: main.model.Ork{name='Garad'weapon='SWORD'health='20'range='7.7'attackPower='5'defense='19'bornt='2005-09-20'}
+[DEBUG] 2019-11-30 16:38:49 Ork - Garad: range successfully set from:7.7  to: 77.7
+[DEBUG] 2019-11-30 16:39:58 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:39:58 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:39:58 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'weapon='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}
+[DEBUG] 2019-11-30 16:40:24 Ork - name successfully set from:null  to: Kilrogg
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: weapon successfully set from:null  to: INSECTREAPER
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: health successfully set from:0  to: 25
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: range successfully set from:0.0  to: 30.5
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: attackPower successfully set from:0  to: 15
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: attackPower successfully set from:0  to: 20
+[DEBUG] 2019-11-30 16:40:24 Ork - Kilrogg: bornt successfully set from:null  to: 2019-11-30
+[INFO ] 2019-11-30 16:40:24 Ork - Uj Ork szuletett: main.model.Ork{name='Kilrogg'weapon='INSECTREAPER'health='25'range='30.5'attackPower='15'defense='20'bornt='2019-11-30'}

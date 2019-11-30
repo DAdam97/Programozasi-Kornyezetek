@@ -4,6 +4,10 @@ import beadando.dao.exceptions.OrkNotFound;
 import beadando.model.Ork;
 import beadando.model.Weapon;
 import beadando.dao.exceptions.OrkAlreadyAdded;
+import beadando.model.exceptions.InvalidAttackPower;
+import beadando.model.exceptions.InvalidDefense;
+import beadando.model.exceptions.InvalidHealth;
+import beadando.model.exceptions.InvalidRange;
 import org.junit.*;
 
 import java.io.File;
@@ -27,7 +31,7 @@ public class OrkDAOTest {
 
 
     @Before
-    public void testOrkDAO() throws IOException, OrkAlreadyAdded {
+    public void testOrkDAO() throws IOException, OrkAlreadyAdded, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
         dao = new OrkDAO(filePath);
         Ork ork = new Ork("micsu", Weapon.MACE, 40, 20,
                 10, 5, LocalDate.of(1997,12,31));
@@ -47,7 +51,7 @@ public class OrkDAOTest {
 
 
     @Test
-    public void  testAddOrk() throws OrkAlreadyAdded, IOException {
+    public void  testAddOrk() throws OrkAlreadyAdded, IOException, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
         Ork ork = new Ork("Thrall", Weapon.MACE, 45,
                 25,10, 10, LocalDate.of(1994,11,12));
 
@@ -58,7 +62,7 @@ public class OrkDAOTest {
     }
 
     @Test(expected = OrkAlreadyAdded.class)
-    public void testOrkAlreadyAdded() throws OrkAlreadyAdded, IOException {
+    public void testOrkAlreadyAdded() throws OrkAlreadyAdded, IOException, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
         Ork Durotan = new Ork("Durotan", Weapon.INSECTREAPER, 45,
                 25,10, 10, LocalDate.now());
         dao.addOrk(Durotan);
@@ -72,7 +76,7 @@ public class OrkDAOTest {
     }
 
     @Test
-    public void testGetOrkByName() throws OrkNotFound, OrkAlreadyAdded, IOException {
+    public void testGetOrkByName() throws OrkNotFound, OrkAlreadyAdded, IOException, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
         Ork Orgrim = new Ork("Orgrim", Weapon.INSECTREAPER, 45,
                 25,10, 10, LocalDate.now());
         dao.addOrk(Orgrim);
@@ -90,7 +94,7 @@ public class OrkDAOTest {
     }
 
     @Test
-    public void testKillOrkTrue() throws OrkAlreadyAdded, IOException {
+    public void testKillOrkTrue() throws OrkAlreadyAdded, IOException, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
         Ork Durotan = new Ork("Durotan", Weapon.INSECTREAPER, 45,
                 25,10, 10, LocalDate.now());
         dao.addOrk(Durotan);
@@ -119,7 +123,7 @@ public class OrkDAOTest {
     }
 
     @Test
-    public void testKillOrkFalse() throws OrkAlreadyAdded, IOException {
+    public void testKillOrkFalse() throws OrkAlreadyAdded, IOException, InvalidRange, InvalidDefense, InvalidHealth, InvalidAttackPower {
 
         Ork Durotan = new Ork("Durotan", Weapon.INSECTREAPER, 45,
                 25,10, 10, LocalDate.now());

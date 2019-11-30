@@ -1,12 +1,11 @@
 package beadando.model;
 
-import beadando.model.exceptions.invalidAttackPower;
-import beadando.model.exceptions.invalidDefense;
-import beadando.model.exceptions.invalidHealth;
-import beadando.model.exceptions.invalidRange;
+import beadando.model.exceptions.InvalidAttackPower;
+import beadando.model.exceptions.InvalidDefense;
+import beadando.model.exceptions.InvalidHealth;
+import beadando.model.exceptions.InvalidRange;
 import org.apache.log4j.Logger;
 
-import javax.naming.Name;
 import java.time.LocalDate;
 import java.util.Objects;
 
@@ -29,14 +28,17 @@ public class Ork {
     }
 
     public Ork(String name, Weapon weapon, int health, double range,
-               int attackPower, int defense, LocalDate bornt) {
-        this.name = name;
-        this.weapon = weapon;
-        this.health = health;
-        this.range = range;
-        this.attackPower = attackPower;
-        this.defense = defense;
-        this.bornt = bornt;
+               int attackPower, int defense, LocalDate bornt)
+            throws InvalidHealth, InvalidRange, InvalidAttackPower, InvalidDefense {
+
+        setName(name);
+        setWeapon(weapon);
+        setHealth(health);
+        setRange(range);
+        setAttackPower(attackPower);
+        setDefense(defense);
+        setBornt(bornt);
+
         logger.info("Uj Ork szuletett: " + this);
     }
 
@@ -75,14 +77,14 @@ public class Ork {
         return health;
     }
 
-    public void setHealth(int health) throws invalidHealth {
+    public void setHealth(int health) throws InvalidHealth {
         if (health >= 1 && 50 >= health) {
             logger.debug(name+ ": health successfully set from:" + this.health + "  to: " + health);
             this.health = health;
         }
         else {
             logger.error(name+ ": invalidHealth: " + health);
-            throw new invalidHealth();
+            throw new InvalidHealth();
         }
     }
 
@@ -90,14 +92,14 @@ public class Ork {
         return range;
     }
 
-    public void setRange(double range) throws invalidRange {
+    public void setRange(double range) throws InvalidRange {
         if (range >= 0.5 && 100.0 >= range) {
             logger.debug(name+ ": range successfully set from:" + this.range + "  to: " + range);
             this.range = range;
         }
         else{
             logger.error(name+ ": invalidRange: " + range);
-            throw  new invalidRange();
+            throw  new InvalidRange();
         }
     }
 
@@ -105,14 +107,14 @@ public class Ork {
         return attackPower;
     }
 
-    public void setAttackPower(int attackPower) throws invalidAttackPower {
+    public void setAttackPower(int attackPower) throws InvalidAttackPower {
         if (attackPower >= 1 && 15 >= attackPower) {
             logger.debug(name+ ": attackPower successfully set from:" + this.attackPower + "  to: " + attackPower);
             this.attackPower = attackPower;
         }
         else {
             logger.error(name+ ": invalidAP: "+ attackPower);
-            throw new invalidAttackPower();
+            throw new InvalidAttackPower();
         }
     }
 
@@ -120,14 +122,14 @@ public class Ork {
         return defense;
     }
 
-    public void setDefense(int defense) throws invalidDefense {
+    public void setDefense(int defense) throws InvalidDefense {
         if (defense >= 0 && 20 >= defense) {
             logger.debug(name+ ": attackPower successfully set from:" + this.defense + "  to: " + defense);
             this.defense = defense;
         }
         else {
             logger.error(name+ ": invalidDefense: " + defense);
-            throw new invalidDefense();
+            throw new InvalidDefense();
         }
     }
     //endregion
@@ -138,7 +140,7 @@ public class Ork {
 
         return "main.model.Ork{"+
                 "name='" + name + '\''+
-                "fegyver='" + weapon + '\''+
+                "weapon='" + weapon + '\''+
                 "health='" + health + '\''+
                 "range='" + range + '\''+
                 "attackPower='" + attackPower + '\''+
