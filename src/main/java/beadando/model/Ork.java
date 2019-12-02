@@ -28,8 +28,7 @@ public class Ork {
     }
 
     public Ork(String name, Weapon weapon, int health, double range,
-               int attackPower, int defense, LocalDate bornt)
-            throws InvalidHealth, InvalidRange, InvalidAttackPower, InvalidDefense {
+               int attackPower, int defense, LocalDate bornt) throws InvalidHealth, InvalidRange, InvalidAttackPower, InvalidDefense {
 
         setName(name);
         setWeapon(weapon);

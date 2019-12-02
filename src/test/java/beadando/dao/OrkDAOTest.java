@@ -68,7 +68,7 @@ public class OrkDAOTest {
         dao.addOrk(Durotan);
 
         Ork Nerzhul = new Ork("Ner'zhul", Weapon.FIST, 2,
-                15,19, 10, LocalDate.now());
+                15,12, 10, LocalDate.now());
 
         dao.addOrk(Nerzhul);
         dao.addOrk(Durotan);

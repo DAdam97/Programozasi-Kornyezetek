@@ -39,8 +39,7 @@ public class OrkTest {
 
     @Test
     public void testAllSetters() throws InvalidHealth, InvalidRange, InvalidAttackPower, InvalidDefense {
-        Ork OrgrimDoomhammer = new Ork("Ork", Weapon.FIST,1,
-                1,1,1,LocalDate.now() );
+        Ork OrgrimDoomhammer = new Ork();
 
         System.out.println(OrgrimDoomhammer.toString());
 

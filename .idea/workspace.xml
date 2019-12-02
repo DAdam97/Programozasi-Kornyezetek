@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="127dbbbd-175b-4f4b-8876-81fb3087cf1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logFiles/servicelog.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beadando/service/OrkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beadando/service/OrkServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Orktest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Orktest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logFiles/daolog.out" beforeDir="false" afterPath="$PROJECT_DIR$/logFiles/daolog.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logFiles/mainlog.out" beforeDir="false" afterPath="$PROJECT_DIR$/logFiles/mainlog.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logFiles/modellog.out" beforeDir="false" afterPath="$PROJECT_DIR$/logFiles/modellog.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/Ork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/Ork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidAttackPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/InvalidAttackPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidDefense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/InvalidDefense.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/InvalidHealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/invalidRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beadando/model/exceptions/InvalidRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/beadando/dao/OrkDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/beadando/dao/OrkDAOTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/beadando/model/OrkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/beadando/model/OrkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/beadando/model/Ork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beadando/model/Ork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/beadando/model/OrkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/beadando/model/OrkTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="254" />
+    <option name="myElementSize" value="550" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -46,8 +47,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -71,30 +72,32 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/beadando" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="beadando.service" />
       <recent name="beadando.dao" />
       <recent name="beadando.model" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java\beadando" />
-      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="beadando.dao.exceptions" />
       <recent name="beadando.model.exceptions" />
       <recent name="beadando.modell.exceptions" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Programozasi-Kornyezetek\src\test\java\beadando" />
+      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java\beadando" />
+      <recent name="D:\Java\Programozasi Kornyezetek\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +112,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OrkTest.testOrkGetters">
+  <component name="RunManager" selected="JUnit.OrkDAOTest">
+    <configuration name="OrkDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.dao" />
+      <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkDAOTest.testOrkAlreadyAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.dao" />
+      <option name="MAIN_CLASS_NAME" value="beadando.dao.OrkDAOTest" />
+      <option name="METHOD_NAME" value="testOrkAlreadyAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.service" />
+      <option name="MAIN_CLASS_NAME" value="beadando.service.OrkServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrkServiceTest.testAddOrk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beadando.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beadando.service" />
+      <option name="MAIN_CLASS_NAME" value="beadando.service.OrkServiceTest" />
+      <option name="METHOD_NAME" value="testAddOrk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1.0" />
       <extension name="coverage">
@@ -125,77 +190,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrkTest.testInvalidAttackPower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beadando.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="beadando.model" />
-      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
-      <option name="METHOD_NAME" value="testInvalidAttackPower" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrkTest.testInvalidDefense" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beadando.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="beadando.model" />
-      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
-      <option name="METHOD_NAME" value="testInvalidDefense" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrkTest.testInvalidRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beadando.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="beadando.model" />
-      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
-      <option name="METHOD_NAME" value="testInvalidRange" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrkTest.testOrkGetters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beadando.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="beadando.model" />
-      <option name="MAIN_CLASS_NAME" value="beadando.model.OrkTest" />
-      <option name="METHOD_NAME" value="testOrkGetters" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OrkTest.testOrkGetters" />
+        <item itemvalue="JUnit.OrkDAOTest" />
+        <item itemvalue="JUnit.OrkDAOTest.testOrkAlreadyAdded" />
         <item itemvalue="JUnit.OrkTest" />
-        <item itemvalue="JUnit.OrkTest.testInvalidRange" />
-        <item itemvalue="JUnit.OrkTest.testInvalidDefense" />
-        <item itemvalue="JUnit.OrkTest.testInvalidAttackPower" />
+        <item itemvalue="JUnit.OrkServiceTest" />
+        <item itemvalue="JUnit.OrkServiceTest.testAddOrk" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +216,7 @@
       <workItem from="1574789220124" duration="6248000" />
       <workItem from="1574879354167" duration="1922000" />
       <workItem from="1575125147847" duration="4094000" />
+      <workItem from="1575315091306" duration="6049000" />
     </task>
     <servers />
   </component>
@@ -238,11 +240,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Programozasi_Kornyezetek$OrkDAOTest.ic" NAME="OrkDAOTest Coverage Results" MODIFIED="1575126041402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Programozasi_Kornyezetek$OrkTest.ic" NAME="OrkTest Coverage Results" MODIFIED="1575320948798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>beadando.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Programozasi_Kornyezetek$OrkDAOTest.ic" NAME="OrkDAOTest Coverage Results" MODIFIED="1575321079348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>beadando.dao.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Programozasi_Kornyezetek$OrkTest.ic" NAME="OrkTest Coverage Results" MODIFIED="1575128328960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>beadando.model.*</FILTER>
+    <SUITE FILE_PATH="coverage/Programozasi_Kornyezetek$OrkServiceTest.ic" NAME="OrkServiceTest Coverage Results" MODIFIED="1575320889537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>beadando.service.*</FILTER>
     </SUITE>
   </component>
 </project>
